@@ -18,7 +18,7 @@
 * For instance `az aks create --resource-group "my_resource_group" --name "my-kubernetes-cluster" --node-count 1 --enable-addons monitoring --generate-ssh-keys`
   * Name can contain up to 63 characters and can only contain letters, numbers and dashes (-).
 
-## Installing kubernetes
+## Installing kubectl cli
 * Run command `az aks install-cli`
   * This might need elevated permissions
 
